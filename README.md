@@ -1,2 +1,2 @@
-# Analise_dados-projetos
-Projetos de analise de dados para portifólio
+# Analise dados projetos
+Este repositório tem como objetivo ser um portifólio de todos os projetos de análise de dados que construi.
